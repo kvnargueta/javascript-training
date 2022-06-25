@@ -1,18 +1,18 @@
 // Variables
-
+// We use the statement "var"
 var name = "Oscar"
 
-// Declarar
-var edad;
+// Statement
+var age;
 
-// Inicializar
-edad = 30;
+// Init
+age = 30;
 
 // Arrays 
-var elementos = ["Computadora","celular"];
+var elements = ["Computadora","celular"];
 
-// Objetos
-var persona = {
-    nombre: "Diego",
-    edad: 30
+// Objects
+var man = {
+    name: "Diego",
+    age: 30
 }
