@@ -22,3 +22,24 @@ console.log(a)
 // Comparison Operator
 console.log(3 == "3") // Return True (Is equal)
 console.log(3 === "3") // Return False. More strict, consider the type of
+
+// Less or equal | greater or equal
+console.log(3 < 5) // Return True because 3 is less that 5
+console.log(8 > 5) // Return True because 8 is greater that 5
+console.log(5 <= 6) // Return True because 5 is less that 6
+console.log(5 >= 6) // Return False because 5 is greater that 6
+
+// Logical Operators
+var c = 1;
+var d = 2;
+/* 
+  (c && d) // AND (If C is true and d is true. Return True)
+  (c || d) // AND (If C is true or d is true. Return True)
+*/ 
+// Add Value (Arithmetic)
+var f = 40
+f++ // Add 1 to 40 
+console.log(f) // Return 41
+
+f+= 5 // Add 5 to "F" number
+console.log(f) // Return 46
