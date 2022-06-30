@@ -1,0 +1,8 @@
+/*
+  Oscara Barajas | Platzi Teacher
+  This course help me to understand the new featuresm in each Javascript Version
+  What's ECMA Script?  The specification of language propose by ECMA International
+  An institution responsible of sstandars. Javascript uses ECMA to work in new features
+  ECMAScript 6, 7, etc.  // Versions of language
+  From 2015, each june we have a new version
+*/
